@@ -31,7 +31,7 @@
 
 <body>
     <div class="container">
-        <h1 class="p-3">ToDo Item List</h1>
+        <h1 class="p-3 text-center">ToDo Item List</h1>
         <form:form>
 
             <table class="table table-bordered">
